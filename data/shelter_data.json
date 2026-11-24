@@ -1,0 +1,13 @@
+{
+    "animals": [
+        {
+            "type": "dog",
+            "name": "kaylo",
+            "age": 1,
+            "gender": "Male",
+            "breed": "pamer",
+            "adopted": false
+        }
+    ],
+    "adopters": []
+}
